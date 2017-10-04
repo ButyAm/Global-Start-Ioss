@@ -1,0 +1,504 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "05a-VK-krK"; */
+"05a-VK-krK.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Sowing and Evangelism with no access to the school"; ObjectID = "0Jt-Bm-4gA"; */
+"0Jt-Bm-4gA.normalTitle" = "Sowing and Evangelism with no access to the school";
+
+/* Class = "UITextView"; text = "Where can you find access to students? There are ways to meet students and have opportunities to share your faith even if you never go to campus. Find out where students go after school or where they gather in the evenings and on the weekends.  Initiate conversations with students and take opportunities to talk to them about God."; ObjectID = "1V4-5H-Z3N"; */
+"1V4-5H-Z3N.text" = "Where can you find access to students? There are ways to meet students and have opportunities to share your faith even if you never go to campus. Find out where students go after school or where they gather in the evenings and on the weekends.  Initiate conversations with students and take opportunities to talk to them about God.";
+
+/* Class = "UITextView"; text = "Mary was chosen as a young girl to give birth to the Savior of the world!"; ObjectID = "1kc-m5-NQv"; */
+"1kc-m5-NQv.text" = "Mary was chosen as a young girl to give birth to the Savior of the world!";
+
+/* Class = "UITextView"; text = "Ways to reach students through relationships and evangelism:"; ObjectID = "1qa-Sm-1en"; */
+"1qa-Sm-1en.text" = "Ways to reach students through relationships and evangelism:";
+
+/* Class = "UITextView"; text = "• lead small group Bible studies"; ObjectID = "29N-9a-LNr"; */
+"29N-9a-LNr.text" = "• lead small group Bible studies";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "3C8-8g-bHy"; */
+"3C8-8g-bHy.title" = "<Back";
+
+/* Class = "UILabel"; text = "Learn about Youth Culture"; ObjectID = "3mw-F2-zts"; */
+"3mw-F2-zts.text" = "Learn about Youth Culture";
+
+/* Class = "UITextView"; text = "• personal evangelism/share their faith "; ObjectID = "59j-OB-abO"; */
+"59j-OB-abO.text" = "• personal evangelism/share their faith ";
+
+/* Class = "UILabel"; text = "What Is The Goal?"; ObjectID = "5fT-YI-TvF"; */
+"5fT-YI-TvF.text" = "What Is The Goal?";
+
+/* Class = "UITextView"; text = "Jesus modeled the importance of knowing the real issues in the lives of those He ministered to and we must do the same. With the youth culture changing so rapidly we must constantly observe and ask questions to know how we can minister effectively. We must ASK, LOOK and LISTEN."; ObjectID = "5if-hp-VoN"; */
+"5if-hp-VoN.text" = "Jesus modeled the importance of knowing the real issues in the lives of those He ministered to and we must do the same. With the youth culture changing so rapidly we must constantly observe and ask questions to know how we can minister effectively. We must ASK, LOOK and LISTEN.";
+
+/* Class = "UITextView"; text = "• Take cookies or food to the administrators and let them know that you are praying for them."; ObjectID = "5sJ-Xj-hzP"; */
+"5sJ-Xj-hzP.text" = "• Take cookies or food to the administrators and let them know that you are praying for them.";
+
+/* Class = "UILabel"; text = "Movement Plan"; ObjectID = "6Sl-H6-cjS"; */
+"6Sl-H6-cjS.text" = "Movement Plan";
+
+/* Class = "UILabel"; text = "Share a Story"; ObjectID = "7MN-aC-h5U"; */
+"7MN-aC-h5U.text" = "Share a Story";
+
+/* Class = "UITextView"; text = "Building a movement involves encouraging students to fall in love with Jesus, walk by faith in the power of the Holy Spirit, and become spiritual multipliers at their high schools by sharing their faith and discipling those who respond. As a result, God will change lives, campuses and countries for eternity as students multiply their faith for a lifetime."; ObjectID = "7QF-df-99A"; */
+"7QF-df-99A.text" = "Building a movement involves encouraging students to fall in love with Jesus, walk by faith in the power of the Holy Spirit, and become spiritual multipliers at their high schools by sharing their faith and discipling those who respond. As a result, God will change lives, campuses and countries for eternity as students multiply their faith for a lifetime.";
+
+/* Class = "UILabel"; text = "Global Start Introduction"; ObjectID = "7RB-Rz-y8v"; */
+"7RB-Rz-y8v.text" = "Global Start Introduction";
+
+/* Class = "UITextView"; text = "Build"; ObjectID = "7em-6o-vMo"; */
+"7em-6o-vMo.text" = "Build";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "8aS-sa-LBM"; */
+"8aS-sa-LBM.title" = "<Back";
+
+/* Class = "UITextView"; text = "The more you understand them, the more you will be able to use practical and effective ways to reach them."; ObjectID = "8tT-cM-nf5"; */
+"8tT-cM-nf5.text" = "The more you understand them, the more you will be able to use practical and effective ways to reach them.";
+
+/* Class = "UITextView"; text = "• help lead weekly evangelistic meetings"; ObjectID = "93s-ih-hUK"; */
+"93s-ih-hUK.text" = "• help lead weekly evangelistic meetings";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "96L-UU-drH"; */
+"96L-UU-drH.placeholder" = "Title";
+
+/* Class = "UITextView"; text = "• A good moral and spiritual role model"; ObjectID = "98j-dV-GNm"; */
+"98j-dV-GNm.text" = "• A good moral and spiritual role model";
+
+/* Class = "UITextView"; text = "• Tutor students."; ObjectID = "9dP-a6-7dt"; */
+"9dP-a6-7dt.text" = "• Tutor students.";
+
+/* Class = "UILabel"; text = "Begin with Prayer"; ObjectID = "9nP-fd-Iet"; */
+"9nP-fd-Iet.text" = "Begin with Prayer";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "A3u-vz-nP2"; */
+"A3u-vz-nP2.normalTitle" = "Take Action";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "AA1-sQ-W4m"; */
+"AA1-sQ-W4m.title" = "<Back";
+
+/* Class = "UITextView"; text = "• Speak in classes about morals, values, character or felt needs."; ObjectID = "Aul-TX-tS0"; */
+"Aul-TX-tS0.text" = "• Speak in classes about morals, values, character or felt needs.";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "BK2-Y0-vJu"; */
+"BK2-Y0-vJu.title" = "Share";
+
+/* Class = "UITextView"; text = "Here are some things to look for in volunteers:"; ObjectID = "BXH-VK-NVG"; */
+"BXH-VK-NVG.text" = "Here are some things to look for in volunteers:";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "BiO-gC-Ecf"; */
+"BiO-gC-Ecf.text" = "Contact";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "CrR-YR-XZy"; */
+"CrR-YR-XZy.title" = "<Back";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "CsJ-g8-DgP"; */
+"CsJ-g8-DgP.normalTitle" = "Take Action";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "D9l-9P-QMF"; */
+"D9l-9P-QMF.text" = "title";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "DAp-LU-A8H"; */
+"DAp-LU-A8H.text" = "About";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "DUu-Ab-0NY"; */
+"DUu-Ab-0NY.text" = "News";
+
+/* Class = "UITextView"; text = "• Faith to initiate relationships and share the gospel boldly"; ObjectID = "DyX-Ea-Pjc"; */
+"DyX-Ea-Pjc.text" = "• Faith to initiate relationships and share the gospel boldly";
+
+/* Class = "UITextView"; text = "• The importance of time with the Lord (Mark 1:35)"; ObjectID = "Fa5-iW-M6Z"; */
+"Fa5-iW-M6Z.text" = "• The importance of time with the Lord (Mark 1:35)";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Ggj-GR-Nxv"; */
+"Ggj-GR-Nxv.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "Gz6-SX-GEn"; */
+"Gz6-SX-GEn.title" = "<Back";
+
+/* Class = "UITextField"; placeholder = "User Email / Phone"; ObjectID = "HqF-2h-ign"; */
+"HqF-2h-ign.placeholder" = "User Email / Phone";
+
+/* Class = "UITextView"; text = "In Mark 16:15 Jesus said to His disciples, “Go into all the world and preach the good news to all creation.” Jesus went out. Paul, Timothy, the disciples and many others also went out and proclaimed the Good News. We are also called to go!"; ObjectID = "ISn-V0-6W9"; */
+"ISn-V0-6W9.text" = "In Mark 16:15 Jesus said to His disciples, “Go into all the world and preach the good news to all creation.” Jesus went out. Paul, Timothy, the disciples and many others also went out and proclaimed the Good News. We are also called to go!";
+
+/* Class = "UITextView"; text = "• Listen carefully: Listen to their conversations with others. What do they talk about? What is important to them?"; ObjectID = "IWY-OI-RY1"; */
+"IWY-OI-RY1.text" = "• Listen carefully: Listen to their conversations with others. What do they talk about? What is important to them?";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "KEd-Ds-fqd"; */
+"KEd-Ds-fqd.title" = "<Back";
+
+/* Class = "UITextView"; text = "How can you expose as many students to the gospel and then follow up and disciple those who respond? This will look different in every country, city or school, depending on the openness of the school campus and your access to students."; ObjectID = "KlC-Jp-vHo"; */
+"KlC-Jp-vHo.text" = "How can you expose as many students to the gospel and then follow up and disciple those who respond? This will look different in every country, city or school, depending on the openness of the school campus and your access to students.";
+
+/* Class = "UITextView"; text = " Throughout Jesus’ ministry He would go away often to be with His Father and to pray (Luke 5:16). "; ObjectID = "KwS-O2-1oD"; */
+"KwS-O2-1oD.text" = " Throughout Jesus’ ministry He would go away often to be with His Father and to pray (Luke 5:16). ";
+
+/* Class = "UILabel"; text = "Sowing and Evangelism with access to the school"; ObjectID = "LSO-bi-ZbX"; */
+"LSO-bi-ZbX.text" = "Sowing and Evangelism with access to the school";
+
+/* Class = "UITextView"; text = "Become an insider within the school through serving them. As you serve you can meet and begin to develop relationships with students in school, at lunch, after school, or any way that you can gain access to them."; ObjectID = "LfM-64-EeW"; */
+"LfM-64-EeW.text" = "Become an insider within the school through serving them. As you serve you can meet and begin to develop relationships with students in school, at lunch, after school, or any way that you can gain access to them.";
+
+/* Class = "UITextView"; text = "A spiritual movement is God working through a team of likehearted disciples to win, build and send toward the fulfillment of the Great Commission."; ObjectID = "MKS-cr-nNA"; */
+"MKS-cr-nNA.text" = "A spiritual movement is God working through a team of likehearted disciples to win, build and send toward the fulfillment of the Great Commission.";
+
+/* Class = "UITextView"; text = "Who will help:"; ObjectID = "MPs-qy-3Kr"; */
+"MPs-qy-3Kr.text" = "Who will help:";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Mhc-zx-owL"; */
+"Mhc-zx-owL.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "MiC-v0-ola"; */
+"MiC-v0-ola.normalTitle" = "Take Action";
+
+/* Class = "UITextView"; text = "Talk to teachers, headmasters, principals, students, churches and parents to find the schools that are most open to you serving them and/or having a Christian influence. In some schools you will be able to talk about Christ. In other schools you will only be able to talk about felt needs and share Christ outside of the school."; ObjectID = "NbF-Cf-UUw"; */
+"NbF-Cf-UUw.text" = "Talk to teachers, headmasters, principals, students, churches and parents to find the schools that are most open to you serving them and/or having a Christian influence. In some schools you will be able to talk about Christ. In other schools you will only be able to talk about felt needs and share Christ outside of the school.";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "OKZ-ny-4rC"; */
+"OKZ-ny-4rC.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "OaN-za-BSv"; */
+"OaN-za-BSv.normalTitle" = "Send";
+
+/* Class = "UITextView"; text = "• Evangelism and ministering to others (Throughout the Gospels, the disciples were learning from Jesus as they observed and participated in ministry together.)"; ObjectID = "Oos-WW-emb"; */
+"Oos-WW-emb.text" = "• Evangelism and ministering to others (Throughout the Gospels, the disciples were learning from Jesus as they observed and participated in ministry together.)";
+
+/* Class = "UILabel"; text = "Sowing and Evangelism with no access to the school"; ObjectID = "P1B-t3-Yc6"; */
+"P1B-t3-Yc6.text" = "Sowing and Evangelism with no access to the school";
+
+/* Class = "UITextView"; text = "• Dependence on God (John 18:28,29)"; ObjectID = "PTd-YO-2Jo"; */
+"PTd-YO-2Jo.text" = "• Dependence on God (John 18:28,29)";
+
+/* Class = "UITextView"; text = "How to create a ministry of discipleship:"; ObjectID = "Pxu-vM-Owd"; */
+"Pxu-vM-Owd.text" = "How to create a ministry of discipleship:";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "Q23-bW-s9p"; */
+"Q23-bW-s9p.title" = "<Back";
+
+/* Class = "UILabel"; text = "Send"; ObjectID = "QM6-ko-dKH"; */
+"QM6-ko-dKH.text" = "Send";
+
+/* Class = "UITextView"; text = "• How to be multipliers of their faith (Mark 3:13-19)"; ObjectID = "Qkp-eX-hOC"; */
+"Qkp-eX-hOC.text" = "• How to be multipliers of their faith (Mark 3:13-19)";
+
+/* Class = "UIButton"; normalTitle = "Build"; ObjectID = "Qtn-ma-sSa"; */
+"Qtn-ma-sSa.normalTitle" = "Build";
+
+/* Class = "UITextView"; text = "• share their testimonies or the gospel"; ObjectID = "QxC-QE-Hfr"; */
+"QxC-QE-Hfr.text" = "• share their testimonies or the gospel";
+
+/* Class = "UITextView"; text = "Prayer Strategy:"; ObjectID = "RPJ-aV-nUx"; */
+"RPJ-aV-nUx.text" = "Prayer Strategy:";
+
+/* Class = "UITextView"; text = "Zacchaeus was a sinner but also curious as to whom Jesus was. Knowing that Zacchaeus needed to know his value and worth, Jesus went to his home and ministered to him. This brought him to repentance and salvation (Luke 19:1-10)."; ObjectID = "Rga-Nv-qAv"; */
+"Rga-Nv-qAv.text" = "Zacchaeus was a sinner but also curious as to whom Jesus was. Knowing that Zacchaeus needed to know his value and worth, Jesus went to his home and ministered to him. This brought him to repentance and salvation (Luke 19:1-10).";
+
+/* Class = "UITextView"; text = "Some ways that teenagers can lead:"; ObjectID = "RtW-IO-LHl"; */
+"RtW-IO-LHl.text" = "Some ways that teenagers can lead:";
+
+/* Class = "UIButton"; normalTitle = "Win"; ObjectID = "SXJ-3d-dkB"; */
+"SXJ-3d-dkB.normalTitle" = "Win";
+
+/* Class = "UITextView"; text = "Send"; ObjectID = "Sgp-qB-fMx"; */
+"Sgp-qB-fMx.text" = "Send";
+
+/* Class = "UITextView"; text = "You will also need people who will join you in the mission to reach high school students. There are many opportunities to help, such as being a part of your prayer team, helping to reach and disciple students, giving financially, providing access to the schools, helping with special events, providing food, giving administrative assistance, and so much more."; ObjectID = "StS-8F-H01"; */
+"StS-8F-H01.text" = "You will also need people who will join you in the mission to reach high school students. There are many opportunities to help, such as being a part of your prayer team, helping to reach and disciple students, giving financially, providing access to the schools, helping with special events, providing food, giving administrative assistance, and so much more.";
+
+/* Class = "UITextView"; text = "Partner with churches and train the Christian students to share their faith. You can send the students back to their schools to share Christ with their friends and then invite their friends to activities off campus. Students can have outreaches and parties in their homes, in parks, at restaurants or in many other locations. "; ObjectID = "T3j-En-bo4"; */
+"T3j-En-bo4.text" = "Partner with churches and train the Christian students to share their faith. You can send the students back to their schools to share Christ with their friends and then invite their friends to activities off campus. Students can have outreaches and parties in their homes, in parks, at restaurants or in many other locations. ";
+
+/* Class = "UILabel"; text = "Build Spiritual Movements"; ObjectID = "TBF-L3-1EB"; */
+"TBF-L3-1EB.text" = "Build Spiritual Movements";
+
+/* Class = "UITextView"; text = "As a youth, God called Josiah to turn an evil and idolatrous nation to one who sought after God"; ObjectID = "TgU-7E-lXd"; */
+"TgU-7E-lXd.text" = "As a youth, God called Josiah to turn an evil and idolatrous nation to one who sought after God";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "U5N-NQ-zlZ"; */
+"U5N-NQ-zlZ.title" = "<Back";
+
+/* Class = "UITextView"; text = "Teenagers can be leaders. They have been called to multiply their faith. Just as Jesus trained His young disciples to carry on the ministry you can train your students to multiply their faith to their friends, school, country and to the world (Acts 1:8)!"; ObjectID = "UE2-as-L6W"; */
+"UE2-as-L6W.text" = "Teenagers can be leaders. They have been called to multiply their faith. Just as Jesus trained His young disciples to carry on the ministry you can train your students to multiply their faith to their friends, school, country and to the world (Acts 1:8)!";
+
+/* Class = "UITextView"; text = "• Become spiritual multipliers"; ObjectID = "UMj-Lv-HTd"; */
+"UMj-Lv-HTd.text" = "• Become spiritual multipliers";
+
+/* Class = "UITextView"; text = "• How to pray (Luke 11:1-4)"; ObjectID = "UTG-Mg-QU9"; */
+"UTG-Mg-QU9.text" = "• How to pray (Luke 11:1-4)";
+
+/* Class = "UITextView"; text = "• Ask good questions: What do teenagers think about?  What are their beliefs and values? How do they get their needs met? What are their goals in life? What are their greatest fears\""; ObjectID = "UY7-gZ-XFF"; */
+"UY7-gZ-XFF.text" = "• Ask good questions: What do teenagers think about?  What are their beliefs and values? How do they get their needs met? What are their goals in life? What are their greatest fears\"";
+
+/* Class = "UITextView"; text = "• Respond by faith"; ObjectID = "V5v-c8-UCg"; */
+"V5v-c8-UCg.text" = "• Respond by faith";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "VGl-Xs-0GB"; */
+"VGl-Xs-0GB.title" = "<Back";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "VTF-R5-I5y"; */
+"VTF-R5-I5y.normalTitle" = "Next";
+
+/* Class = "UITextView"; text = "Throughout history, God has chosen teenagers to help start revivals, lead spiritual movements, rule nations and change societies. He still involves them today. God desires to change students’ lives and give them a passion for Christ. They are vital in helping to fulfill the Great Commission."; ObjectID = "VTw-sa-527"; */
+"VTw-sa-527.text" = "Throughout history, God has chosen teenagers to help start revivals, lead spiritual movements, rule nations and change societies. He still involves them today. God desires to change students’ lives and give them a passion for Christ. They are vital in helping to fulfill the Great Commission.";
+
+/* Class = "UITextView"; text = "• Look and observe: How and where do they spend their time?  What do they do for fun? How do they act around their peers, their parents or authority?  How do they dress?"; ObjectID = "WFx-zB-kLG"; */
+"WFx-zB-kLG.text" = "• Look and observe: How and where do they spend their time?  What do they do for fun? How do they act around their peers, their parents or authority?  How do they dress?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WRJ-lb-vrn"; */
+"WRJ-lb-vrn.text" = "Label";
+
+/* Class = "UITextView"; text = "• Offer school-wide events and programs through athletic competitions, motivational speakers and fun activities."; ObjectID = "Wjd-jw-yaE"; */
+"Wjd-jw-yaE.text" = "• Offer school-wide events and programs through athletic competitions, motivational speakers and fun activities.";
+
+/* Class = "UITextView"; text = "2. Build - disciples – teaching them to be in relationship with Him and training them to do the work that He was doing "; ObjectID = "Wpo-aJ-t3H"; */
+"Wpo-aJ-t3H.text" = "2. Build - disciples – teaching them to be in relationship with Him and training them to do the work that He was doing ";
+
+/* Class = "UITextView"; text = "•What are their personal challenges: peer pressure, bullying, performance, parental neglect, home life?"; ObjectID = "Wyc-OW-oVh"; */
+"Wyc-OW-oVh.text" = "•What are their personal challenges: peer pressure, bullying, performance, parental neglect, home life?";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "XC8-XN-ajH"; */
+"XC8-XN-ajH.normalTitle" = "Take Action";
+
+/* Class = "UITextView"; text = "3. Send - them out to multiply their faith and help fulfill the Great Commission."; ObjectID = "XO9-kf-gRM"; */
+"XO9-kf-gRM.text" = "3. Send - them out to multiply their faith and help fulfill the Great Commission.";
+
+/* Class = "UITextView"; text = "Specific things that Jesus taught His disciples:"; ObjectID = "XtU-Gr-9Nm"; */
+"XtU-Gr-9Nm.text" = "Specific things that Jesus taught His disciples:";
+
+/* Class = "UITextView"; text = "• Walk with God"; ObjectID = "YEh-BK-ltx"; */
+"YEh-BK-ltx.text" = "• Walk with God";
+
+/* Class = "UITextField"; placeholder = "Detail"; ObjectID = "Yht-hQ-q8n"; */
+"Yht-hQ-q8n.placeholder" = "Detail";
+
+/* Class = "UITextView"; text = "• Hear the gospel"; ObjectID = "Zat-rL-EoU"; */
+"Zat-rL-EoU.text" = "• Hear the gospel";
+
+/* Class = "UITextView"; text = "David, a teenage shepherd boy, was called to fight a powerful nation and defeat it to establish the kingdom of Israel."; ObjectID = "aA8-pP-W35"; */
+"aA8-pP-W35.text" = "David, a teenage shepherd boy, was called to fight a powerful nation and defeat it to establish the kingdom of Israel.";
+
+/* Class = "UITextView"; text = "1. Win - people to Himself through evangelism"; ObjectID = "aLr-gR-rBK"; */
+"aLr-gR-rBK.text" = "1. Win - people to Himself through evangelism";
+
+/* Class = "UILabel"; text = "Learn about Youth Culture"; ObjectID = "aP0-fl-hDe"; */
+"aP0-fl-hDe.text" = "Learn about Youth Culture";
+
+/* Class = "UITextView"; text = "How students can lead locally and go globally:"; ObjectID = "aPP-Wi-mJd"; */
+"aPP-Wi-mJd.text" = "How students can lead locally and go globally:";
+
+/* Class = "UITextView"; text = "Jesus had compassion for people, knowing that they were harassed and helpless, like sheep without a Shepherd (Matthew 9:36)."; ObjectID = "aPU-cO-qXH"; */
+"aPU-cO-qXH.text" = "Jesus had compassion for people, knowing that they were harassed and helpless, like sheep without a Shepherd (Matthew 9:36).";
+
+/* Class = "UITextView"; text = "Invite students to fun activities, English corners, sports competitions and weekly meetings at student’s homes that include games and a short biblical message."; ObjectID = "aaS-2W-rou"; */
+"aaS-2W-rou.text" = "Invite students to fun activities, English corners, sports competitions and weekly meetings at student’s homes that include games and a short biblical message.";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "adg-GM-7jN"; */
+"adg-GM-7jN.title" = "Share";
+
+/* Class = "UILabel"; text = "God's Heart for Teenagers"; ObjectID = "aqF-U5-phD"; */
+"aqF-U5-phD.text" = "God's Heart for Teenagers";
+
+/* Class = "UITextView"; text = "Can you use social media to meet kids and build trust in relationships with those you have met?"; ObjectID = "aqi-fr-hc1"; */
+"aqi-fr-hc1.text" = "Can you use social media to meet kids and build trust in relationships with those you have met?";
+
+/* Class = "UITextView"; text = "Prayer"; ObjectID = "auw-eW-shd"; */
+"auw-eW-shd.text" = "Prayer";
+
+/* Class = "UITextView"; text = "Jesus chose 12 disciples and many others to help fulfill His purposes. He chose those who were teachable and willing to count the cost."; ObjectID = "bAp-rS-VSR"; */
+"bAp-rS-VSR.text" = "Jesus chose 12 disciples and many others to help fulfill His purposes. He chose those who were teachable and willing to count the cost.";
+
+/* Class = "UITextView"; text = "Can you imagine a day when the teenagers of your country would have the opportunity to ..."; ObjectID = "bEj-Cf-8T8"; */
+"bEj-Cf-8T8.text" = "Can you imagine a day when the teenagers of your country would have the opportunity to ...";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bd6-CX-24b"; */
+"bd6-CX-24b.normalTitle" = "Next";
+
+/* Class = "UITextView"; text = "• A heart for high school students"; ObjectID = "bnX-W8-jWi"; */
+"bnX-W8-jWi.text" = "• A heart for high school students";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "cGs-dy-NxE"; */
+"cGs-dy-NxE.title" = "<Back";
+
+/* Class = "UITextView"; text = "Are you ready to trust God to see this happen?"; ObjectID = "cxS-Pz-MN9"; */
+"cxS-Pz-MN9.text" = "Are you ready to trust God to see this happen?";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "dXw-nz-fWb"; */
+"dXw-nz-fWb.normalTitle" = "Take Action";
+
+/* Class = "UITextView"; text = "In John 4:6-18 Jesus knew the Samaritan woman’s greatest need was for love, affection and a sense of worth. He knew it was not being fulfilled through relationships with men, so He offered her Living Water to fill her deepest need and her spiritual thirst."; ObjectID = "dbf-2J-0Fs"; */
+"dbf-2J-0Fs.text" = "In John 4:6-18 Jesus knew the Samaritan woman’s greatest need was for love, affection and a sense of worth. He knew it was not being fulfilled through relationships with men, so He offered her Living Water to fill her deepest need and her spiritual thirst.";
+
+/* Class = "UILabel"; text = "WIn"; ObjectID = "eTR-p1-m1L"; */
+"eTR-p1-m1L.text" = "WIn";
+
+/* Class = "UITextView"; text = "• Time: Those who work directly with students should give at least 5 – 10 hours a week"; ObjectID = "ect-uX-v9f"; */
+"ect-uX-v9f.text" = "• Time: Those who work directly with students should give at least 5 – 10 hours a week";
+
+/* Class = "UITextView"; text = "If that is your desire or if you dare to believe God to raise up teenagers to become leaders on their campuses and to be involved in helping reach the world, then get on your knees and pray!"; ObjectID = "f4g-4R-e1V"; */
+"f4g-4R-e1V.text" = "If that is your desire or if you dare to believe God to raise up teenagers to become leaders on their campuses and to be involved in helping reach the world, then get on your knees and pray!";
+
+/* Class = "UITextView"; text = "God called Joseph, Samuel, Esther, Timothy, the disciples and many other teenagers to become great leaders. It is obvious that He sees teenagers as strategic and essential to His heart and His ministry. In fact, 1 Timothy 4:12 says, “Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity."; ObjectID = "f6p-mi-56m"; */
+"f6p-mi-56m.text" = "God called Joseph, Samuel, Esther, Timothy, the disciples and many other teenagers to become great leaders. It is obvious that He sees teenagers as strategic and essential to His heart and His ministry. In fact, 1 Timothy 4:12 says, “Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity.";
+
+/* Class = "UITextView"; text = "•What is on their hearts – their joys, burdens, desires, hopes and dreams?"; ObjectID = "fVI-tQ-ZvR"; */
+"fVI-tQ-ZvR.text" = "•What is on their hearts – their joys, burdens, desires, hopes and dreams?";
+
+/* Class = "UITextView"; text = "•What are their greatest needs?"; ObjectID = "fbt-II-SnW"; */
+"fbt-II-SnW.text" = "•What are their greatest needs?";
+
+/* Class = "UITextView"; text = "• plan and take ownership of outreaches"; ObjectID = "feH-Yk-fcI"; */
+"feH-Yk-fcI.text" = "• plan and take ownership of outreaches";
+
+/* Class = "UILabel"; text = "Build"; ObjectID = "g42-qX-PEF"; */
+"g42-qX-PEF.text" = "Build";
+
+/* Class = "UITextView"; text = "Jesus spent time with His disciples, modeling His life and ministry and helping them grow into people who would continue a ministry of evangelism and discipleship long after He was gone (John 14:12)."; ObjectID = "g71-ec-VY1"; */
+"g71-ec-VY1.text" = "Jesus spent time with His disciples, modeling His life and ministry and helping them grow into people who would continue a ministry of evangelism and discipleship long after He was gone (John 14:12).";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "gMq-zb-2Yy"; */
+"gMq-zb-2Yy.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "gQV-wW-XWB"; */
+"gQV-wW-XWB.normalTitle" = "Take Action";
+
+/* Class = "UITextView"; text = "• Volunteer at school events. "; ObjectID = "goG-ch-OhA"; */
+"goG-ch-OhA.text" = "• Volunteer at school events. ";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "gz0-uV-eD0"; */
+"gz0-uV-eD0.normalTitle" = "Take Action";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "hhi-K4-hlI"; */
+"hhi-K4-hlI.title" = "Share";
+
+/* Class = "UITextView"; text = "\"And these things you have heard me say in the presence of many witnesses entrust to reliable men who will also be qualified to teach others” (2 Timothy 2:2)."; ObjectID = "hqb-N9-KuP"; */
+"hqb-N9-KuP.text" = "\"And these things you have heard me say in the presence of many witnesses entrust to reliable men who will also be qualified to teach others” (2 Timothy 2:2).";
+
+/* Class = "UITextView"; text = "• To put His words into action (Matthew 7:24-29)"; ObjectID = "i8t-Bv-V7H"; */
+"i8t-Bv-V7H.text" = "• To put His words into action (Matthew 7:24-29)";
+
+/* Class = "UITextView"; text = "• go on mission projects"; ObjectID = "iNq-hK-4ML"; */
+"iNq-hK-4ML.text" = "• go on mission projects";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "jG6-fn-UN5"; */
+"jG6-fn-UN5.title" = "<Back";
+
+/* Class = "UITextView"; text = "• What outside influences affect their lives?"; ObjectID = "jSI-jl-Xn0"; */
+"jSI-jl-Xn0.text" = "• What outside influences affect their lives?";
+
+/* Class = "UILabel"; text = "Share Story"; ObjectID = "jxU-CI-Az5"; */
+"jxU-CI-Az5.text" = "Share Story";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "kXq-lc-Fyu"; */
+"kXq-lc-Fyu.title" = "<Back";
+
+/* Class = "UITextView"; text = "In order to minister most effectively, you need to know who you are ministering to."; ObjectID = "kZ4-bx-LjX"; */
+"kZ4-bx-LjX.text" = "In order to minister most effectively, you need to know who you are ministering to.";
+
+/* Class = "UITextView"; text = "Jesus modeled this."; ObjectID = "lEZ-if-1Lv"; */
+"lEZ-if-1Lv.text" = "Jesus modeled this.";
+
+/* Class = "UITextView"; text = "With faith and dependence on the Lord, take these principles and use them in your country and watch what God will do in and through the lives of teenagers."; ObjectID = "lbE-bM-hL7"; */
+"lbE-bM-hL7.text" = "With faith and dependence on the Lord, take these principles and use them in your country and watch what God will do in and through the lives of teenagers.";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "lof-Gq-MlP"; */
+"lof-Gq-MlP.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Build Spiritual Movements"; ObjectID = "luo-2Q-ooq"; */
+"luo-2Q-ooq.text" = "Build Spiritual Movements";
+
+/* Class = "UITextView"; text = "Identify target groups: A target group is a group of students who have common interests because of friendships, talents or personalities. They can be organized clubs and athletic teams or natural groups of students because of classes, friendships, social groups or where they live. If you reach out to target groups you will have a group of students who trust each other and are more likely to learn and grow together."; ObjectID = "m3w-Qc-oyi"; */
+"m3w-Qc-oyi.text" = "Identify target groups: A target group is a group of students who have common interests because of friendships, talents or personalities. They can be organized clubs and athletic teams or natural groups of students because of classes, friendships, social groups or where they live. If you reach out to target groups you will have a group of students who trust each other and are more likely to learn and grow together.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "muL-sy-qEp"; */
+"muL-sy-qEp.text" = "Label";
+
+/* Class = "UILabel"; text = "Find Others to Help"; ObjectID = "nmo-dr-mPu"; */
+"nmo-dr-mPu.text" = "Find Others to Help";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "ojL-GO-gPg"; */
+"ojL-GO-gPg.normalTitle" = "Take Action";
+
+/* Class = "UITextView"; text = "• A growing relationship with God and reliance on the power of the Holy Spirit"; ObjectID = "or3-Zz-wKL"; */
+"or3-Zz-wKL.text" = "• A growing relationship with God and reliance on the power of the Holy Spirit";
+
+/* Class = "UILabel"; text = "Movement Plan"; ObjectID = "oul-rx-1zA"; */
+"oul-rx-1zA.text" = "Movement Plan";
+
+/* Class = "UITextView"; text = "Prayer is the most important part of ministry. It expresses dependence on God and not on ourselves."; ObjectID = "pPs-MV-pff"; */
+"pPs-MV-pff.text" = "Prayer is the most important part of ministry. It expresses dependence on God and not on ourselves.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pcN-Yg-bVT"; */
+"pcN-Yg-bVT.text" = "Label";
+
+/* Class = "UITextView"; text = "Win"; ObjectID = "peE-Qh-6sH"; */
+"peE-Qh-6sH.text" = "Win";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "qEm-rU-UC5"; */
+"qEm-rU-UC5.title" = "<Back";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "qL0-OR-Qfn"; */
+"qL0-OR-Qfn.normalTitle" = "Take Action";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "qLa-qh-5ql"; */
+"qLa-qh-5ql.title" = "Share";
+
+/* Class = "UILabel"; text = "God's Heart for Teenagers"; ObjectID = "qq8-wR-bYb"; */
+"qq8-wR-bYb.text" = "God's Heart for Teenagers";
+
+/* Class = "UILabel"; text = "What is the Goal?"; ObjectID = "ruL-u6-fYl"; */
+"ruL-u6-fYl.text" = "What is the Goal?";
+
+/* Class = "UIButton"; normalTitle = "Sowing and Evangelism with access to the school"; ObjectID = "ryF-wB-K5w"; */
+"ryF-wB-K5w.normalTitle" = "Sowing and Evangelism with access to the school";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "s4F-Mj-nK6"; */
+"s4F-Mj-nK6.title" = "<Back";
+
+/* Class = "UITextView"; text = "• Truth through Jesus’ teachings that caused a deeper thirst"; ObjectID = "s5M-va-vdi"; */
+"s5M-va-vdi.text" = "• Truth through Jesus’ teachings that caused a deeper thirst";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sY1-GB-eNA"; */
+"sY1-GB-eNA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Take Action"; ObjectID = "sp2-uR-DUZ"; */
+"sp2-uR-DUZ.normalTitle" = "Take Action";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "svf-hg-HVY"; */
+"svf-hg-HVY.normalTitle" = "Next";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "tPn-98-6Vv"; */
+"tPn-98-6Vv.title" = "Share";
+
+/* Class = "UITextView"; text = "Jesus trained and equipped men and women and challenged them to help fulfill the Great Commission. Many of them were faithful to do what God called them to do and that is the reason we know Jesus today. We want to continue that call by building spiritual movements!"; ObjectID = "thk-Tw-lKS"; */
+"thk-Tw-lKS.text" = "Jesus trained and equipped men and women and challenged them to help fulfill the Great Commission. Many of them were faithful to do what God called them to do and that is the reason we know Jesus today. We want to continue that call by building spiritual movements!";
+
+/* Class = "UITextView"; text = "• Get involved with musical groups, leadership students or clubs."; ObjectID = "ujB-er-TX8"; */
+"ujB-er-TX8.text" = "• Get involved with musical groups, leadership students or clubs.";
+
+/* Class = "UITextView"; text = "Jesus went from town to town preaching the Good News. He spoke to the masses and ate dinner with individuals. He chose 12 ordinary men to disciple, train and pour His life into. Jesus modeled His life and taught them to love, serve, pray, and minister to others. Then He equipped them with the Word and the Holy Spirit and sent them out to disciple the nations."; ObjectID = "xN8-CQ-GZ9"; */
+"xN8-CQ-GZ9.text" = "Jesus went from town to town preaching the Good News. He spoke to the masses and ate dinner with individuals. He chose 12 ordinary men to disciple, train and pour His life into. Jesus modeled His life and taught them to love, serve, pray, and minister to others. Then He equipped them with the Word and the Holy Spirit and sent them out to disciple the nations.";
+
+/* Class = "UILabel"; text = "Find Others to Help"; ObjectID = "xZ6-he-lfH"; */
+"xZ6-he-lfH.text" = "Find Others to Help";
+
+/* Class = "UILabel"; text = "Begin with Prayer"; ObjectID = "xdN-Dz-boe"; */
+"xdN-Dz-boe.text" = "Begin with Prayer";
+
+/* Class = "UITextView"; text = "Help"; ObjectID = "yB0-2Y-LcI"; */
+"yB0-2Y-LcI.text" = "Help";
+
+/* Class = "UITextView"; text = "Jesus had three main aspects to His movement:"; ObjectID = "yFB-6Z-s8z"; */
+"yFB-6Z-s8z.text" = "Jesus had three main aspects to His movement:";
+
+/* Class = "UITextView"; text = "Ideas to serve the school:"; ObjectID = "ya4-sU-TeP"; */
+"ya4-sU-TeP.text" = "Ideas to serve the school:";
+
+/* Class = "UITextView"; text = "Do you believe that teenagers can make an impact?  God does and He is ready to burn that passion within their hearts that will set them ablaze by the Holy Spirit to make an eternal spiritual difference!"; ObjectID = "z8U-uY-n9x"; */
+"z8U-uY-n9x.text" = "Do you believe that teenagers can make an impact?  God does and He is ready to burn that passion within their hearts that will set them ablaze by the Holy Spirit to make an eternal spiritual difference!";
+
+/* Class = "UITextView"; text = "In Matthew 28:19-20, Jesus says, “Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.\""; ObjectID = "zJb-fB-S0W"; */
+"zJb-fB-S0W.text" = "In Matthew 28:19-20, Jesus says, “Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.\"";
+
+/* Class = "UIBarButtonItem"; title = "<Back"; ObjectID = "zTs-Gv-uMx"; */
+"zTs-Gv-uMx.title" = "<Back";
