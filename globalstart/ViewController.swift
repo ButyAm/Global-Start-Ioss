@@ -56,7 +56,7 @@ class ViewController: UIViewController {
     @IBAction func contactUs(_ sender: Any) {
     let alertController = UIAlertController(title: "Find Us", message: "", preferredStyle: .alert)
                 let buttonOne = UIAlertAction(title: "Find Us On Facebook", style: .default, handler: { (action) -> Void in
-                    let url = URL(string: "http://www.facebook.com")!
+                    let url = URL(string: "https://www.facebook.com/GlobalStart-120065652005616/?modal=admin_todo_tour")!
                     if UIApplication.shared.canOpenURL(url) {
                         UIApplication.shared.open(url, options: [:], completionHandler: nil)
                         //If you want handle the completion block than

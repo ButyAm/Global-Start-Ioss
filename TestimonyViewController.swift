@@ -20,6 +20,12 @@ class TestimonyViewController: UIViewController {
     var ref:DatabaseReference?
     override func viewDidLoad() {
         super.viewDidLoad()
+        // change backgrounf color of naviagtion bar
+        let nav = self.navigationController?.navigationBar
+        nav?.barStyle = UIBarStyle.black
+        nav?.tintColor = UIColor.white
+        nav?.backgroundColor = UIColor(red: 38.0/255.0, green: 64.0/255.0, blue: 103.0/255.0, alpha: 1.0)
+        nav?.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.orange]
 
         ref = Database.database().reference()
         // Do any additional setup after loading the view.
