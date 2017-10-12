@@ -2815,6 +2815,7 @@
                         <outlet property="buildText" destination="b5t-yn-ZGO" id="Xqd-yf-nID"/>
                         <outlet property="myhelpText" destination="ESE-Rg-lQd" id="0um-Mg-W2H"/>
                         <outlet property="prayerTextInput" destination="606-z2-1Zp" id="bX8-Ly-4yz"/>
+                        <outlet property="scrollView" destination="mJm-S8-cER" id="5D2-pS-08h"/>
                         <outlet property="sendtext" destination="8de-MD-3wy" id="gNY-uB-bBF"/>
                         <outlet property="winText" destination="HbT-SN-OQ6" id="7Gj-Ag-gn5"/>
                     </connections>

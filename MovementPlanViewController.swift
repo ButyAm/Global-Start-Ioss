@@ -8,7 +8,7 @@
 
 import UIKit
 
-class MovementPlanViewController: UIViewController {
+class MovementPlanViewController: UIViewController, UITextFieldDelegate {
 
     @IBOutlet weak var prayerTextInput: UITextField!
     @IBOutlet weak var myhelpText: UITextField!
@@ -16,6 +16,9 @@ class MovementPlanViewController: UIViewController {
     @IBOutlet weak var buildText: UITextField!
     @IBOutlet weak var sendtext: UITextField!
 
+    @IBOutlet weak var scrollView: UIScrollView!
+    
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -36,7 +39,37 @@ class MovementPlanViewController: UIViewController {
 //        myhelpText.text = "Type your thoughts here..."
         
         // Do any additional setup after loading the view.
+        self.prayerTextInput.delegate = self;
+        self.myhelpText.delegate = self;
+        self.winText.delegate = self;
+        self.buildText.delegate = self;
+        self.sendtext.delegate = self;
+        
+        
+        //keyboard move up on textfiled editing
+        NotificationCenter.default.addObserver(self, selector: #selector(MovementPlanViewController.keyboardWillShow), name: NSNotification.Name.UIKeyboardWillShow, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(MovementPlanViewController.keyboardWillHide), name: NSNotification.Name.UIKeyboardWillHide, object: nil)
+
+
     }
+    func keyboardWillShow(_ notification:Notification) {
+        
+        if let keyboardSize = (notification.userInfo?[UIKeyboardFrameBeginUserInfoKey] as? NSValue)?.cgRectValue {
+            scrollView.contentInset = UIEdgeInsetsMake(0, 0, keyboardSize.height, 0)
+        }
+    }
+    func keyboardWillHide(_ notification:Notification) {
+        
+        if ((notification.userInfo?[UIKeyboardFrameBeginUserInfoKey] as? NSValue)?.cgRectValue) != nil {
+            scrollView.contentInset = UIEdgeInsetsMake(0, 0, 0, 0)
+        }
+    }
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        self.view.endEditing(true)
+        return false
+    }
+    
     
  
 //    func textViewDidBeginEditing (textView: UITextView) {
