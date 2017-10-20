@@ -30,7 +30,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate {
         nav?.barStyle = UIBarStyle.black
         nav?.tintColor = UIColor.white
         nav?.backgroundColor = UIColor(red: 38.0/255.0, green: 64.0/255.0, blue: 103.0/255.0, alpha: 1.0)
-        nav?.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.orange]
+        nav?.titleTextAttributes = [NSAttributedStringKey.foregroundColor: UIColor.orange]
         
         getSavedPlans()
         
@@ -52,13 +52,13 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate {
 
 
     }
-    func keyboardWillShow(_ notification:Notification) {
+    @objc func keyboardWillShow(_ notification:Notification) {
         
         if let keyboardSize = (notification.userInfo?[UIKeyboardFrameBeginUserInfoKey] as? NSValue)?.cgRectValue {
             scrollView.contentInset = UIEdgeInsetsMake(0, 0, keyboardSize.height, 0)
         }
     }
-    func keyboardWillHide(_ notification:Notification) {
+    @objc func keyboardWillHide(_ notification:Notification) {
         
         if ((notification.userInfo?[UIKeyboardFrameBeginUserInfoKey] as? NSValue)?.cgRectValue) != nil {
             scrollView.contentInset = UIEdgeInsetsMake(0, 0, 0, 0)
@@ -142,9 +142,9 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate {
     {
         let string = "My Movement Plan" as NSString
         
-        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSFontAttributeName:UIFont.systemFont(ofSize: 14.0)])
+        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSAttributedStringKey.font:UIFont.systemFont(ofSize: 14.0)])
         
-        let boldFontAttribute = [NSFontAttributeName: UIFont.boldSystemFont(ofSize: 14.0)]
+        let boldFontAttribute = [NSAttributedStringKey.font: UIFont.boldSystemFont(ofSize: 14.0)]
         
         // Part of string to be bold
         attributedString.addAttributes(boldFontAttribute, range: string.range(of: "My Movement Plan"))
@@ -182,7 +182,7 @@ extension UIViewController {
         view.addGestureRecognizer(tap)
     }
     
-    func dismissKeyboard() {
+    @objc func dismissKeyboard() {
         view.endEditing(true)
     }
 }

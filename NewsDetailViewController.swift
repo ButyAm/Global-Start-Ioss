@@ -45,7 +45,7 @@ class NewsDetailViewController: UIViewController {
         nav?.barStyle = UIBarStyle.black
         nav?.tintColor = UIColor.white
         nav?.backgroundColor = UIColor(red: 38.0/255.0, green: 64.0/255.0, blue: 103.0/255.0, alpha: 1.0)
-        nav?.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.orange]
+        nav?.titleTextAttributes = [NSAttributedStringKey.foregroundColor: UIColor.orange]
         configureCell()
       
    }

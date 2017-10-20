@@ -21,7 +21,7 @@ class GodsHeartViewController: UIViewController {
         nav?.barStyle = UIBarStyle.black
         nav?.tintColor = UIColor.white
         nav?.backgroundColor = UIColor(red: 38.0/255.0, green: 64.0/255.0, blue: 103.0/255.0, alpha: 1.0)
-        nav?.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.orange]
+        nav?.titleTextAttributes = [NSAttributedStringKey.foregroundColor: UIColor.orange]
         
 
         textJosia.attributedText = boldTextJosia()
@@ -54,9 +54,9 @@ class GodsHeartViewController: UIViewController {
     {
         let string = "As a youth, God called Josiah to turn an evil and idolatrous nation to one who sought after God" as NSString
         
-        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSFontAttributeName:UIFont.systemFont(ofSize: 14.0)])
+        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSAttributedStringKey.font:UIFont.systemFont(ofSize: 14.0)])
         
-        let boldFontAttribute = [NSFontAttributeName: UIFont.boldSystemFont(ofSize: 14.0)]
+        let boldFontAttribute = [NSAttributedStringKey.font: UIFont.boldSystemFont(ofSize: 14.0)]
         
         // Part of string to be bold
         attributedString.addAttributes(boldFontAttribute, range: string.range(of: "Josiah"))
@@ -69,9 +69,9 @@ class GodsHeartViewController: UIViewController {
     {
         let string = "Mary was chosen as a young girl to give birth to the Savior of the world!" as NSString
         
-        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSFontAttributeName:UIFont.systemFont(ofSize: 14.0)])
+        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSAttributedStringKey.font:UIFont.systemFont(ofSize: 14.0)])
         
-        let boldFontAttribute = [NSFontAttributeName: UIFont.boldSystemFont(ofSize: 14.0)]
+        let boldFontAttribute = [NSAttributedStringKey.font: UIFont.boldSystemFont(ofSize: 14.0)]
         
         // Part of string to be bold
         attributedString.addAttributes(boldFontAttribute, range: string.range(of: "Mary"))
@@ -83,9 +83,9 @@ class GodsHeartViewController: UIViewController {
     {
         let string = "David, a teenage shepherd boy, was called to fight a powerful nation and defeat it to establish the kingdom of Israel." as NSString
         
-        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSFontAttributeName:UIFont.systemFont(ofSize: 14.0)])
+        let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSAttributedStringKey.font:UIFont.systemFont(ofSize: 14.0)])
         
-        let boldFontAttribute = [NSFontAttributeName: UIFont.boldSystemFont(ofSize: 14.0)]
+        let boldFontAttribute = [NSAttributedStringKey.font: UIFont.boldSystemFont(ofSize: 14.0)]
         
         // Part of string to be bold
         attributedString.addAttributes(boldFontAttribute, range: string.range(of: "David"))

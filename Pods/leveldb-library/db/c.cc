@@ -1,4 +1,4 @@
-// Copyright (c) 2011 The LevelDB Authors. All rights reserved.
+termi// Copyright (c) 2011 The LevelDB Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file. See the AUTHORS file for names of contributors.
 
@@ -271,8 +271,8 @@ void leveldb_compact_range(
   Slice a, b;
   db->rep->CompactRange(
       // Pass NULL Slice if corresponding "const char*" is NULL
-      (start_key ? (a = Slice(start_key, start_key_len), &a) : NULL),
-      (limit_key ? (b = Slice(limit_key, limit_key_len), &b) : NULL));
+                        (start_key ? (static_cast<void>(a = Slice(start_key, start_key_len)), &a) : NULL),
+                        (limit_key ? (static_cast<void>(b = Slice(limit_key, limit_key_len)), &b) : NULL));
 }
 
 void leveldb_destroy_db(
