@@ -90,7 +90,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate {
     }
    
     @IBAction func saveClicked(_ sender: Any) {
-       if let prayer2 = prayerTextInput.text, let help2 = myhelpText.text, let win2 = winText.text, let build2 = buildText.text, let send2 = sendtext.text, (prayer2.characters.count > 0 && help2.characters.count > 0 && win2.characters.count > 0 && build2.characters.count > 0 && send2.characters.count > 0) {
+       if let prayer2 = prayerTextInput.text, let help2 = myhelpText.text, let win2 = winText.text, let build2 = buildText.text, let send2 = sendtext.text, (prayer2.count > 0 && help2.count > 0 && win2.count > 0 && build2.count > 0 && send2.count > 0) {
         
         
         let myprayerTextInput = prayerTextInput.text
@@ -122,7 +122,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate {
 
     @IBAction func onShareClicked(_ sender: Any) {
         
-        if let prayer1 = prayerTextInput.text, let help1 = myhelpText.text, let win1 = winText.text, let build1 = buildText.text, let send1 = sendtext.text, (prayer1.characters.count > 0 && help1.characters.count > 0 && win1.characters.count > 0 && build1.characters.count > 0 && send1.characters.count > 0) {
+        if let prayer1 = prayerTextInput.text, let help1 = myhelpText.text, let win1 = winText.text, let build1 = buildText.text, let send1 = sendtext.text, (prayer1.count > 0 && help1.count > 0 && win1.count > 0 && build1.count > 0 && send1.count > 0) {
         
         let shareText = [" My Movement Plan \n\n Prayer \n Prayer Strategy: \n \(String(describing: prayerTextInput.text!)) \n\n My Help \n Who will hep: \n \(String(describing: myhelpText.text!)) \n\n Win \n Ways to reach students through relationships and evangelism: \n  \(String(describing: winText.text!)) \n\n Build \n How to create a ministry of discipleship: \n  \(String(describing: buildText.text!)) \n\n Send \n How students can lead locally and go globally: \n  \(String(describing: sendtext.text!))  " ]
         

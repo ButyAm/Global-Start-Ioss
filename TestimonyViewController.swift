@@ -36,7 +36,7 @@ class TestimonyViewController: UIViewController {
     @IBAction func sendTestimony(_ sender: Any) {
         
         // sendng testimony to firebase
-    if let user = userDetail.text, let title = testimonyTitle.text, let detailTest = detailTestimony.text, (user.characters.count > 0 && title.characters.count > 0 && detailTest.characters.count > 0) {
+    if let user = userDetail.text, let title = testimonyTitle.text, let detailTest = detailTestimony.text, (user.count > 0 && title.count > 0 && detailTest.count > 0) {
         
         
         
