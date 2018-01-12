@@ -36,6 +36,8 @@
 		83DC022B1E70BCB000B2DB1D /* TestimonyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DC022A1E70BCB000B2DB1D /* TestimonyViewController.swift */; };
 		83E045241E731BED00DAA7C9 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E045201E731BED00DAA7C9 /* User.swift */; };
 		8659FF78B9EB4C501DDB4039 /* Pods_globalstart.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1763D65A2BA8262845BDEC39 /* Pods_globalstart.framework */; };
+		C3E400042008DAEC00E04B7E /* ImageUploadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3E400032008DAEC00E04B7E /* ImageUploadManager.swift */; };
+		C3E4000820090E0400E04B7E /* EmailUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3E4000720090E0400E04B7E /* EmailUsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +96,8 @@
 		83E045201E731BED00DAA7C9 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		A382FCFD5FB8FECA4C5A4B1A /* Pods_globalstartTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_globalstartTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB3D90345004F8FC1A31C3D0 /* Pods_globalstartUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_globalstartUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3E400032008DAEC00E04B7E /* ImageUploadManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageUploadManager.swift; sourceTree = "<group>"; };
+		C3E4000720090E0400E04B7E /* EmailUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailUsViewController.swift; sourceTree = "<group>"; };
 		C932CF43ED8E36180069ED96 /* Pods-globalstart.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-globalstart.release.xcconfig"; path = "Pods/Target Support Files/Pods-globalstart/Pods-globalstart.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -136,6 +140,7 @@
 		83048A831E5790A000AE1FD4 = {
 			isa = PBXGroup;
 			children = (
+				C3E400032008DAEC00E04B7E /* ImageUploadManager.swift */,
 				8361345C1E87312B0056BE11 /* Movement */,
 				83C2376F1E8008A1009020C7 /* Testimony */,
 				83C2376E1E800888009020C7 /* Intro */,
@@ -174,6 +179,7 @@
 				83048A981E5790A000AE1FD4 /* LaunchScreen.storyboard */,
 				83048A9B1E5790A000AE1FD4 /* Info.plist */,
 				83048ABD1E57A52000AE1FD4 /* GoogleService-Info.plist */,
+				C3E4000720090E0400E04B7E /* EmailUsViewController.swift */,
 			);
 			path = globalstart;
 			sourceTree = "<group>";
@@ -496,6 +502,7 @@
 				836F0C7F1E828B4D0093C936 /* howto.swift in Sources */,
 				839FFB9E1E8A7F26004D3F76 /* CustomButton.swift in Sources */,
 				83048ADC1E57E18900AE1FD4 /* UsersTableViewCell.swift in Sources */,
+				C3E400042008DAEC00E04B7E /* ImageUploadManager.swift in Sources */,
 				839FFB9A1E8A4BEF004D3F76 /* SowinAndEvanWithAccessVC.swift in Sources */,
 				8332E6F11E60419200AA0E68 /* FindOthersVC.swift in Sources */,
 				8332E6FB1E60424700AA0E68 /* SendViewController.swift in Sources */,
@@ -511,6 +518,7 @@
 				83E045241E731BED00DAA7C9 /* User.swift in Sources */,
 				83DC022B1E70BCB000B2DB1D /* TestimonyViewController.swift in Sources */,
 				83048A921E5790A000AE1FD4 /* ViewController.swift in Sources */,
+				C3E4000820090E0400E04B7E /* EmailUsViewController.swift in Sources */,
 				83048A901E5790A000AE1FD4 /* AppDelegate.swift in Sources */,
 				8332E6F91E60423B00AA0E68 /* WinViewController.swift in Sources */,
 			);
