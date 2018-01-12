@@ -36,8 +36,7 @@ class GodsHeartViewController: UIViewController {
   
 
     @IBAction func takeActi(_ sender: Any) {
-        let Alert = UIAlertController(title: "Take Action", message: "\n•When you look at teenagers today, what grieves your heart? \n•What is your vision for the teenagers of your country? \n•What potential do you see in them? " +
-            "\n•How can you involve teenagers in your country to reach their schools and communities; their country and the world?", preferredStyle: .alert)
+        let Alert = UIAlertController(title: "Take Action", message: "\n1, When you look at teenagers today, what grieves your heart?\n2, What is your vision for the teenagers of your country?\n3, What potential do you see in them?" + "\n4, How can you involve teenagers in your country to reach their schools and communities; their country and the world?", preferredStyle: .alert)
         
         let DismissButton = UIAlertAction(title: "Close", style: .cancel, handler: {
             
@@ -52,7 +51,7 @@ class GodsHeartViewController: UIViewController {
   
     func boldTextJosia()-> NSAttributedString
     {
-        let string = "As a youth, God called Josiah to turn an evil and idolatrous nation to one who sought after God" as NSString
+        let string = "As a youth, God called Josiah to turn an evil and idolatrous nation to one who sought after God." as NSString
         
         let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSAttributedStringKey.font:UIFont.systemFont(ofSize: 14.0)])
         

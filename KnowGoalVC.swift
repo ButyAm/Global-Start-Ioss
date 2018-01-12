@@ -99,7 +99,7 @@ class KnowGoalVC: UIViewController {
     
     func boldTextSend()-> NSAttributedString
     {
-        let string = "3. Send - them out to multiply their faith and help fulfill the Great Commission. " as NSString
+        let string = "3. Send - them out to multiply their faith and help fulfill the Great Commission" as NSString
         
         let attributedString = NSMutableAttributedString(string: string as String, attributes: [NSAttributedStringKey.font:UIFont.systemFont(ofSize: 14.0)])
         

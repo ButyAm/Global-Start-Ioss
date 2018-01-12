@@ -359,7 +359,6 @@
 				TargetAttributes = {
 					83048A8B1E5790A000AE1FD4 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = R33CZH5VRL;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -676,10 +675,10 @@
 			baseConfigurationReference = 1C7F83A640F2735C4CFF6C17 /* Pods-globalstart.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = R33CZH5VRL;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = globalstart/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gcmeds.globalstartt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.globalstart.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
@@ -691,10 +690,10 @@
 			baseConfigurationReference = C932CF43ED8E36180069ED96 /* Pods-globalstart.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = R33CZH5VRL;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = globalstart/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gcmeds.globalstartt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.globalstart.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
