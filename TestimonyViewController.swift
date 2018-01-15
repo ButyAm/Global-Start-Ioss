@@ -10,7 +10,7 @@ import UIKit
 import Firebase
 import FirebaseDatabase
 
-class TestimonyViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+class TestimonyViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate, UITextViewDelegate {
 
     @IBOutlet weak var userDetail: UITextField!
     @IBOutlet weak var testimonyTitle: UITextField!
@@ -21,7 +21,7 @@ class TestimonyViewController: UIViewController, UIImagePickerControllerDelegate
     @IBOutlet weak var imageButton: UIButton!
     @IBOutlet weak var progressView: UIProgressView!
     
-    private let  imageUploadManager = ImageUploadManager()
+  //  private let  imageUploadManager = ImageUploadManager()
     var picker = UIImagePickerController()
 
     
@@ -31,7 +31,12 @@ class TestimonyViewController: UIViewController, UIImagePickerControllerDelegate
         
         picker.delegate = self
 
+        detailTestmony.text = "story/idea/resource"
+        detailTestmony.textColor = UIColor.lightGray
 
+        self.detailTestmony.delegate = self
+
+        
         // change backgrounf color of naviagtion bar
         let nav = self.navigationController?.navigationBar
         nav?.barStyle = UIBarStyle.black
@@ -43,6 +48,27 @@ class TestimonyViewController: UIViewController, UIImagePickerControllerDelegate
         // Do any additional setup after loading the view.
     }
 
+//    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+//        touchesBegan(touches, with: event)
+//        self.view.endEditing(true)
+//    }
+    func textViewDidBeginEditing(_ textView: UITextView) {
+        if detailTestmony.textColor == UIColor.lightGray {
+            detailTestmony.text = nil
+            detailTestmony.textColor = UIColor.black
+        }
+        
+        // prayerText.backgroundColor = UIColor.gray
+    }
+    func textViewDidEndEditing(_ textView: UITextView) {
+        //  prayerText.backgroundColor = UIColor.white
+        if detailTestmony.text.isEmpty {
+            detailTestmony.text = "enter your message"
+            detailTestmony.textColor = UIColor.lightGray
+        }
+        
+    }
+    
    
 //    func showImagePicker() {
 //        let imagePickerController = UIImagePickerController()

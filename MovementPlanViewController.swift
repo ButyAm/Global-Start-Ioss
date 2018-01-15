@@ -30,9 +30,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //hide the keyboard on tap
-        self.hideKeyboardWhenTappedAround()
-        
+       
         let nav = self.navigationController?.navigationBar
         nav?.barStyle = UIBarStyle.black
         nav?.tintColor = UIColor.white
@@ -42,16 +40,16 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
         getSavedPlans()
         
         
-        prayerText.text = "Type your prayer strategy"
-        prayerText.textColor = UIColor.lightGray
-        helpText.text = "Type who will help"
-        helpText.textColor = UIColor.lightGray
-        myWinText.text = "Type how to win"
-        myWinText.textColor = UIColor.lightGray
-        myBuildText.text = "Type how to build"
-        myBuildText.textColor = UIColor.lightGray
-        mySendText.text = "Type how to send"
-        mySendText.textColor = UIColor.lightGray
+//        prayerText.text = "Type your prayer strategy"
+        prayerText.textColor = UIColor.black
+//        helpText.text = "Type who will help"
+        helpText.textColor = UIColor.black
+//        myWinText.text = "Type how to win"
+        myWinText.textColor = UIColor.black
+//        myBuildText.text = "Type how to build"
+        myBuildText.textColor = UIColor.black
+//        mySendText.text = "Type how to send"
+        mySendText.textColor = UIColor.black
        
 //        myhelpText.textColor = UIColor.lightGray
 //        myhelpText.text = "Type your thoughts here..."
@@ -63,6 +61,8 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
         self.myBuildText.delegate = self
         self.mySendText.delegate = self
         
+        //hide the keyboard on tap
+        self.hideKeyboardWhenTappedAround()
         
         //keyboard move up on textfiled editing
         NotificationCenter.default.addObserver(self, selector: #selector(MovementPlanViewController.keyboardWillShow), name: NSNotification.Name.UIKeyboardWillShow, object: nil)
@@ -76,6 +76,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
         self.view.endEditing(true)
     }
     func textViewDidBeginEditing(_ textView: UITextView) {
+        
         if prayerText.textColor == UIColor.lightGray {
             prayerText.text = nil
             prayerText.textColor = UIColor.black
@@ -103,23 +104,23 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
     func textViewDidEndEditing(_ textView: UITextView) {
       //  prayerText.backgroundColor = UIColor.white
         if prayerText.text.isEmpty {
-            prayerText.text = "Type your prayer strategy"
+          //  prayerText.text = "Type your prayer strategy"
             prayerText.textColor = UIColor.lightGray
         } else
         if helpText.text.isEmpty {
-            helpText.text = "Type who will help"
+         //   helpText.text = "Type who will help"
             helpText.textColor = UIColor.lightGray
         } else
         if myWinText.text.isEmpty {
-            myWinText.text = "Type how to win"
+          //  myWinText.text = "Type how to win"
             myWinText.textColor = UIColor.lightGray
         }else
         if myBuildText.text.isEmpty {
-            myBuildText.text = "Type how to build"
+         //   myBuildText.text = "Type how to build"
             myBuildText.textColor = UIColor.lightGray
         }else
         if mySendText.text.isEmpty {
-            mySendText.text = "Type how to send"
+        //    mySendText.text = "Type how to send"
             mySendText.textColor = UIColor.lightGray
         }
        
@@ -162,7 +163,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
     }
    
     @IBAction func saveClicked(_ sender: Any) {
-       if let prayer2 = prayerText.text, let help2 = helpText.text, let win2 = myWinText.text, let build2 = myBuildText.text, let send2 = mySendText.text, (prayer2.count > 0 && help2.count > 0 && win2.count > 0 && build2.count > 0 && send2.count > 0) {
+       if let prayer2 = prayerText.text, let help2 = helpText.text, let win2 = myWinText.text, let build2 = myBuildText.text, let send2 = mySendText.text, (prayer2.count > 0 || help2.count > 0 || win2.count > 0 || build2.count > 0 || send2.count > 0) {
         
         
         let myprayerTextInput = prayerText.text
@@ -176,7 +177,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
         let mysendtext = mySendText.text
         UserDefaults.standard.set(mysendtext, forKey: "mySend")
         
-        let AlertController = UIAlertController(title: "Your Movement Plan", message: "Your Movement Plan Saved Succesfully", preferredStyle: .alert)
+        let AlertController = UIAlertController(title: "Plan", message: "Your Movement Plan Saved Succesfully", preferredStyle: .alert)
         let defaultAction = UIAlertAction(title: "Ok", style: .default, handler: nil)
         AlertController.addAction(defaultAction)
         
@@ -185,7 +186,7 @@ class MovementPlanViewController: UIViewController, UITextFieldDelegate,UITextVi
         
        else {
         
-        let alert2 = UIAlertController(title: "Error", message: "Please, add your plans in all empty fields", preferredStyle: .alert)
+        let alert2 = UIAlertController(title: "Error", message: "Please, add your plans at least in one field", preferredStyle: .alert)
         alert2.addAction(UIAlertAction(title: "OK", style: .cancel, handler: nil))
         present(alert2, animated: true, completion: nil)
         
