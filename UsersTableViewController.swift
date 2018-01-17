@@ -38,6 +38,24 @@ class UsersTableViewController: UITableViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(true)
+        
+        //dataBaseRef = Database.database().reference()
+        
+//
+//        dataBaseRef.child("News").observeSingleEvent(of: .value, with: { (snapshot) in
+//
+//            if snapshot.hasChild("Title"){
+//                self.fetchUsers()
+//
+//                print("true rooms exist")
+//
+//            }else{
+//
+//                print("false room doesn't exist")
+//            }
+//
+//
+//        })
         fetchUsers()
     }
     

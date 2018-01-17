@@ -65,28 +65,28 @@ class ViewController: UIViewController {
                         })
                     }
                 })
-                let buttonThree = UIAlertAction(title: "Email Us", style: .default, handler: { (action) -> Void in
-                    
-                            let vc = self.storyboard?.instantiateViewController(withIdentifier: "EmailUsViewController") as! EmailUsViewController
-                           //  vc.recCatIdArray = categoryIdArray[indexPath.row]
-                            //   self.navigationController?.pushViewController(vc, animated: true)
-                            self.present(vc, animated: true, completion: nil)
-//                    let url = URL(string: "http://www.globalstart.cc")!
-//                    if UIApplication.shared.canOpenURL(url) {
-//                        UIApplication.shared.open(url, options: [:], completionHandler: nil)
-//                        //If you want handle the completion block than
-//                        UIApplication.shared.open(url, options: [:], completionHandler: { (success) in
-//                            print("Open url : \(success)")
-//                        })
-//                    }
-                })
+//                let buttonThree = UIAlertAction(title: "Email Us", style: .default, handler: { (action) -> Void in
+//
+//                            let vc = self.storyboard?.instantiateViewController(withIdentifier: "EmailUsViewController") as! EmailUsViewController
+//                           //  vc.recCatIdArray = categoryIdArray[indexPath.row]
+//                            //   self.navigationController?.pushViewController(vc, animated: true)
+//                            self.present(vc, animated: true, completion: nil)
+////                    let url = URL(string: "http://www.globalstart.cc")!
+////                    if UIApplication.shared.canOpenURL(url) {
+////                        UIApplication.shared.open(url, options: [:], completionHandler: nil)
+////                        //If you want handle the completion block than
+////                        UIApplication.shared.open(url, options: [:], completionHandler: { (success) in
+////                            print("Open url : \(success)")
+////                        })
+////                    }
+//                })
         
                 let buttonCancel = UIAlertAction(title: "OK", style: .cancel) { (action) -> Void in
                     print("Cancel Button Pressed")
                 }
         
                 alertController.addAction(buttonOne)
-                alertController.addAction(buttonThree)
+               // alertController.addAction(buttonThree)
                 alertController.addAction(buttonCancel)
         
                 present(alertController, animated: true, completion: nil)
